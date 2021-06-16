@@ -1,0 +1,4 @@
+classes= 1
+train=data/shoulders/train.txt
+valid=data/shoulders/valid.txt
+names=data/shoulders/classes.names
